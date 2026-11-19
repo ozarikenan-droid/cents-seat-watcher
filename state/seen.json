@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-19T15:08:50.350Z",
+  "updatedAt": "2026-11-19T15:14:00.083Z",
   "lastHeartbeatAt": "2026-11-19T02:51:25.464Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -8,14 +8,14 @@
       "rows": {
         "CENT@UNI|Universita' degli studi di Trieste|TRIESTE|26/11/2026": {
           "availability": "OPEN",
-          "seats": 71,
-          "lastSeats": 71,
+          "seats": 72,
+          "lastSeats": 72,
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@UNI|Universita' degli studi di Messina|MESSINA|26/11/2026": {
           "availability": "OPEN",
-          "seats": 63,
-          "lastSeats": 63,
+          "seats": 62,
+          "lastSeats": 62,
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Sapienza Università di Roma|ROMA|26/11/2026": {
@@ -25,14 +25,14 @@
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Politecnico di Milano|MILANO|26/11/2026": {
-          "availability": "OPEN_LIMITED",
-          "seats": 9,
+          "availability": "FULL",
+          "seats": null,
           "lastSeats": 9,
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Università degli studi di Padova|PADOVA|26/11/2026": {
-          "availability": "OPEN_LIMITED",
-          "seats": 1,
+          "availability": "FULL",
+          "seats": null,
           "lastSeats": 1,
           "lastSeatsOn": "2026-11-19"
         },
