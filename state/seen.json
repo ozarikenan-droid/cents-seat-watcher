@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-19T16:24:00.030Z",
+  "updatedAt": "2026-11-19T16:28:44.760Z",
   "lastHeartbeatAt": "2026-11-19T02:51:25.464Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -25,9 +25,9 @@
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Politecnico di Milano|MILANO|26/11/2026": {
-          "availability": "OPEN",
-          "seats": 38,
-          "lastSeats": 38,
+          "availability": "OPEN_LIMITED",
+          "seats": 2,
+          "lastSeats": 2,
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Università degli studi di Padova|PADOVA|26/11/2026": {
