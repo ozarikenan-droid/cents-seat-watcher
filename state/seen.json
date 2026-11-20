@@ -1,50 +1,50 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-20T12:58:36.297Z",
+  "updatedAt": "2026-11-20T13:04:28.024Z",
   "lastHeartbeatAt": "2026-11-20T02:53:56.636Z",
   "consecutiveFailures": 0,
   "calendars": {
     "CEnT-S": {
       "rows": {
         "CENT@UNI|Universita' degli studi di Trieste|TRIESTE|26/11/2026": {
-          "availability": "OPEN",
+          "availability": "EXPIRED",
           "seats": 71,
           "lastSeats": 71,
           "lastSeatsOn": "2026-11-20"
         },
         "CENT@UNI|Universita' degli studi di Messina|MESSINA|26/11/2026": {
-          "availability": "OPEN",
+          "availability": "EXPIRED",
           "seats": 60,
           "lastSeats": 60,
           "lastSeatsOn": "2026-11-20"
         },
         "CENT@HOME|Sapienza Università di Roma|ROMA|26/11/2026": {
-          "availability": "FULL",
-          "seats": null,
+          "availability": "EXPIRED",
+          "seats": 0,
           "lastSeats": 16,
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Politecnico di Milano|MILANO|26/11/2026": {
-          "availability": "FULL",
-          "seats": null,
+          "availability": "EXPIRED",
+          "seats": 0,
           "lastSeats": 2,
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Università degli studi di Padova|PADOVA|26/11/2026": {
-          "availability": "FULL",
-          "seats": null,
+          "availability": "EXPIRED",
+          "seats": 0,
           "lastSeats": 1,
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Università degli studi di Teramo|TERAMO|26/11/2026": {
-          "availability": "FULL",
-          "seats": null,
+          "availability": "EXPIRED",
+          "seats": 0,
           "lastSeats": null,
           "lastSeatsOn": null
         },
         "CENT@HOME|Università Ca' Foscari Venezia|VENEZIA|26/11/2026": {
-          "availability": "FULL",
-          "seats": null,
+          "availability": "EXPIRED",
+          "seats": 0,
           "lastSeats": 1,
           "lastSeatsOn": "2026-11-19"
         },
