@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-23T11:13:57.112Z",
+  "updatedAt": "2026-11-23T11:18:49.837Z",
   "lastHeartbeatAt": "2026-11-23T03:04:24.376Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -61,10 +61,10 @@
           "lastSeatsOn": null
         },
         "CENT@HOME|Politecnico di Milano|MILANO|17/12/2026": {
-          "availability": "FULL",
-          "seats": null,
-          "lastSeats": null,
-          "lastSeatsOn": null
+          "availability": "OPEN",
+          "seats": 29,
+          "lastSeats": 29,
+          "lastSeatsOn": "2026-11-23"
         },
         "CENT@UNI|Politecnico di Torino|TORINO|12/01/2027": {
           "availability": "FULL",
