@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-23T11:28:37.637Z",
+  "updatedAt": "2026-11-23T11:34:13.710Z",
   "lastHeartbeatAt": "2026-11-23T03:04:24.376Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -61,8 +61,8 @@
           "lastSeatsOn": null
         },
         "CENT@HOME|Politecnico di Milano|MILANO|17/12/2026": {
-          "availability": "OPEN",
-          "seats": 29,
+          "availability": "FULL",
+          "seats": null,
           "lastSeats": 29,
           "lastSeatsOn": "2026-11-23"
         },
