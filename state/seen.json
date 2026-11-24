@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-24T12:53:52.642Z",
+  "updatedAt": "2026-11-24T12:58:37.106Z",
   "lastHeartbeatAt": "2026-11-24T03:08:35.929Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -68,8 +68,8 @@
         },
         "CENT@UNI|Politecnico di Torino|TORINO|12/01/2027": {
           "availability": "OPEN",
-          "seats": 29,
-          "lastSeats": 29,
+          "seats": 24,
+          "lastSeats": 24,
           "lastSeatsOn": "2026-11-24"
         }
       },
