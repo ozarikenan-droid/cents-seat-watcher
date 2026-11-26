@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-26T08:28:35.808Z",
+  "updatedAt": "2026-11-26T08:34:10.623Z",
   "lastHeartbeatAt": "2026-11-26T03:13:50.459Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -49,8 +49,8 @@
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@UNI|Sapienza Universita' di Roma - Facolta' di Ingegneria (I3S) - Dipartimento di Scienze statistiche|ROMA|17/12/2026": {
-          "availability": "OPEN_LIMITED",
-          "seats": 1,
+          "availability": "FULL",
+          "seats": null,
           "lastSeats": 1,
           "lastSeatsOn": "2026-11-26"
         },
@@ -67,10 +67,10 @@
           "lastSeatsOn": null
         },
         "CENT@HOME|Politecnico di Milano|MILANO|17/12/2026": {
-          "availability": "FULL",
-          "seats": null,
-          "lastSeats": 29,
-          "lastSeatsOn": "2026-11-23"
+          "availability": "OPEN",
+          "seats": 36,
+          "lastSeats": 36,
+          "lastSeatsOn": "2026-11-26"
         },
         "CENT@UNI|Politecnico di Torino|TORINO|12/01/2027": {
           "availability": "FULL",
