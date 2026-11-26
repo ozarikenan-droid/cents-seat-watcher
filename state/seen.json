@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-26T17:48:48.487Z",
+  "updatedAt": "2026-11-26T17:53:51.613Z",
   "lastHeartbeatAt": "2026-11-26T03:13:50.459Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -26,7 +26,7 @@
         },
         "CENT@HOME|Politecnico di Milano|MILANO|26/11/2026": {
           "availability": "EXPIRED",
-          "seats": 0,
+          "seats": 11,
           "lastSeats": 2,
           "lastSeatsOn": "2026-11-19"
         },
@@ -56,8 +56,8 @@
         },
         "CENT@UNI|Universita' degli studi di Messina|MESSINA|17/12/2026": {
           "availability": "OPEN",
-          "seats": 14,
-          "lastSeats": 14,
+          "seats": 13,
+          "lastSeats": 13,
           "lastSeatsOn": "2026-11-26"
         },
         "CENT@HOME|Sapienza Università di Roma|ROMA|17/12/2026": {
