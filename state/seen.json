@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-26T00:53:55.497Z",
+  "updatedAt": "2026-11-26T00:58:38.501Z",
   "lastHeartbeatAt": "2026-11-25T03:13:48.309Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -50,8 +50,8 @@
         },
         "CENT@UNI|Sapienza Universita' di Roma - Facolta' di Ingegneria (I3S) - Dipartimento di Scienze statistiche|ROMA|17/12/2026": {
           "availability": "OPEN_LIMITED",
-          "seats": 1,
-          "lastSeats": 1,
+          "seats": 2,
+          "lastSeats": 2,
           "lastSeatsOn": "2026-11-26"
         },
         "CENT@UNI|Universita' degli studi di Messina|MESSINA|17/12/2026": {
